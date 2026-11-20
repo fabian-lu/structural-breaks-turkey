@@ -1,0 +1,15 @@
+Series,Date,k (m),Conf.,z,Δ,Episode (Table 1),LLM attribution,Rating
+"CPI inflation (year-on-year, %)",Feb 2022,18 (9),95%,14.2,+38 pp,Inflation surge 2022,Rate cuts Sep–Dec 2021 into a depreciating lira; pass-through of the Dec 2021 collapse; Jan 2022 administered price and wage increases,accurate
+"CPI inflation (year-on-year, %)",Oct 2024,7 (4),69%,6.6,-18 pp,Disinflation 2024–25,Base effects from the mid-2023 price surge; lagged effect of tightening to 50%; real appreciation under managed depreciation,accurate
+Overnight interbank rate (%),Jun 2023,10 (8),92%,8.7,+12 pp,Return to conventional policy,Runoff 28 May; Şimşek (3 Jun) and Erkan (9 Jun) appointed; 22 Jun hike from 8.5% to 15% and subsequent path,accurate
+Consumer confidence index,Jun 2008,11 (6),67%,4.5,-2.1 pts,Global financial crisis,Mid-2008 commodity and inflation shock; CBRT hikes May–Jul 2008; AKP closure case; global financial stress,accurate
+Consumer confidence index,Apr 2010,7 (6),69%,5.0,+2.3 pts,Global financial crisis,"V-shaped recovery: GDP rebound, falling unemployment, policy rate at 6.5%, equity highs",accurate
+Consumer confidence index,Sep 2018,7 (7),67%,6.3,-2.9 pts,Currency crisis 2018,"August 2018 lira crisis (Brunson dispute, 10 Aug tariffs); inflation 24.5% in Sep; 625 bp hike on 13 Sep",accurate
+"MSCI Turkey ETF (TUR, USD)",Oct 2009,6 (4),64%,1.7,+18%,Global financial crisis,Global post-crisis risk-on rally; lira appreciation; CBRT easing to 6.75%; narrowing sovereign spreads,accurate
+"MSCI Turkey ETF (TUR, USD)",Aug 2011,5 (5),41%,2.8,-25%,none,"Global risk-off (US downgrade 5 Aug, euro-area crisis); lira depreciation; CBRT cut on 4 Aug",accurate
+"MSCI Turkey ETF (TUR, USD)",Jun 2018,7 (6),77%,4.6,-37%,Currency crisis 2018,Lira slide from May; emergency hikes 23 May and 7 Jun; election 24 Jun; US–Turkey dispute,accurate
+"MSCI Turkey ETF (TUR, USD)",Nov 2022,6 (6),72%,4.7,+60%,Inflation surge 2022,Retail equity boom under negative real rates (cuts to 9% by 24 Nov); lira held stable by KKM,accurate
+USD/TRY (daily),22 Nov 2021,9 (6),85%,7.5,+13%,Easing and lira collapse 2021,18 Nov cut to 15%; 22 Nov presidential defence of low rates; lira −15%; KKM on 20 Dec,accurate
+USD/TRY (daily),12 May 2023,5 (5),54%,1.1,+1%,Return to conventional policy,FX defence ahead of the 14 May election; post-election pivot and the appointments of 3 and 9 June,accurate
+USD/TRY (daily),06 Jun 2023,11 (7),86%,12.5,+10%,Return to conventional policy,End of FX suppression after the runoff; Şimşek 3–4 Jun; 7 Jun 7% fall; Erkan 9 Jun; 22 Jun hike,accurate
+USD/TRY (daily),18 Oct 2023,5 (5),59%,1.2,+1%,Return to conventional policy,Controlled depreciation under the new team; hikes to 30% (21 Sep) and 35% (26 Oct); inflation about 61%,accurate

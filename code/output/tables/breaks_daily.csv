@@ -1,0 +1,13 @@
+window,target,date,direction,k,m,conf,delta,pct,z,n_obs,episode,baseline_attribution,baseline_rating
+2021-22,level,2021-11-22,up,9,6,0.849,0.1259,0.1341,7.5,521,Easing and lira collapse 2021,CBRT's 18 Nov cut to 15% amid >20% inflation; capital flight,accurate
+2021-22,realised volatility,2021-04-20,down,6,5,0.61,-0.2515,,8.24,521,none,,
+2021-22,realised volatility,2021-11-24,up,7,6,0.7,0.3013,,9.87,521,Easing and lira collapse 2021,,
+2021-22,realised volatility,2021-12-20,up,7,6,0.69,0.347,,11.36,521,Easing and lira collapse 2021,,
+2021-22,realised volatility,2022-01-24,down,9,4,0.721,-0.3395,,11.12,521,Inflation surge 2022,,
+2023,level,2023-05-12,up,5,5,0.538,0.0084,0.0084,1.13,260,Return to conventional policy,Uncertainty before the elections of 14 May 2023,accurate
+2023,level,2023-06-06,up,11,7,0.861,0.0928,0.0972,12.47,260,Return to conventional policy,Runoff of 28 May 2023; expected continuation of the low-rate policy,misleading
+2023,level,2023-10-18,up,5,5,0.586,0.0091,0.0092,1.23,260,Return to conventional policy,Continued resistance to rate increases; Middle East conflict from 7 Oct; dollar strength,misleading
+2023,realised volatility,2023-06-06,up,11,7,0.854,0.1051,,6.56,260,Return to conventional policy,,
+2023,realised volatility,2023-06-23,up,5,5,0.526,0.0525,,3.28,260,Return to conventional policy,,
+2023,realised volatility,2023-07-25,down,8,5,0.655,-0.0838,,5.23,260,Return to conventional policy,,
+2023,realised volatility,2023-09-25,down,5,5,0.642,-0.126,,7.87,260,Return to conventional policy,,

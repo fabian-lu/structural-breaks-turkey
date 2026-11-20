@@ -1,0 +1,8 @@
+On **2023-10-18**, USD/TRY appears to have shifted upward, meaning the **Turkish lira weakened against the U.S. dollar**.
+
+- **What changed:** The 30-day average rose from **27.27 to 28.44 TRY per USD**, an increase of about **1.17 TRY** or **4.3%**. The detected break magnitude is a smaller **+0.25 TRY level shift**, but the broader window confirms a persistent upward move. Both before and after the break, the trend was already increasing, so this looks more like a **continuation/step-up in depreciation** rather than a full trend reversal.
+- **Volatility:** Standard deviation fell from **0.37 to 0.29**, suggesting the move was relatively controlled rather than disorderly.
+- **Statistical significance:** Confidence is **58.6%**, so the break is **moderately weak statistically**. It is noticeable, but not strong enough to conclude a definitive regime change on its own.
+- **Possible reasons:** The timing fits Turkey’s ongoing 2023 lira depreciation amid high inflation, external financing pressure, and a shift toward tighter monetary policy. The Central Bank of Turkey had raised rates to **30% on 2023-09-21** and later to **35% on 2023-10-26**, shortly after the break. The market may have been repricing expectations ahead of that meeting. Global risk aversion after the **Israel-Hamas conflict began on 2023-10-07** may also have pressured emerging-market currencies, though that link is speculative.
+
+Overall, the break indicates a **moderate upward level shift in USD/TRY**, consistent with continued lira weakening, but the statistical confidence is only modest.

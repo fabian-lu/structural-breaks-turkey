@@ -1,0 +1,15 @@
+series,date,Claude Opus 5 (main),GPT-5.5,Claude Sonnet 4,Gemini 3.5 Flash-Lite,GPT-5.4 nano,Mistral Small,Qwen3.5 9B
+cpi_yoy,2022-02,accurate,accurate,partly accurate,accurate,partly accurate,partly accurate,misleading
+cpi_yoy,2024-10,accurate,accurate,accurate,accurate,partly accurate,misleading,partly accurate
+policy_rate,2023-06,accurate,accurate,accurate,accurate,partly accurate,accurate,misleading
+cci,2008-06,accurate,accurate,accurate,accurate,partly accurate,accurate,accurate
+cci,2010-04,accurate,partly accurate,partly accurate,partly accurate,partly accurate,misleading,misleading
+cci,2018-09,accurate,accurate,accurate,accurate,partly accurate,accurate,misleading
+tur_etf,2009-10,accurate,accurate,accurate,accurate,partly accurate,partly accurate,misleading
+tur_etf,2011-08,accurate,accurate,partly accurate,accurate,partly accurate,accurate,misleading
+tur_etf,2018-06,accurate,accurate,accurate,accurate,partly accurate,accurate,accurate
+tur_etf,2022-11,accurate,accurate,misleading,accurate,partly accurate,misleading,misleading
+usdtry_daily,2021-11-22,accurate,accurate,accurate,accurate,partly accurate,accurate,
+usdtry_daily,2023-05-12,accurate,accurate,accurate,partly accurate,partly accurate,misleading,misleading
+usdtry_daily,2023-06-06,accurate,accurate,misleading,accurate,partly accurate,misleading,
+usdtry_daily,2023-10-18,accurate,accurate,misleading,accurate,partly accurate,misleading,misleading
