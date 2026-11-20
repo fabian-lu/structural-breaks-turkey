@@ -1,0 +1,5 @@
+series,label,transform,n,start,end,interpolated
+tur_etf,"MSCI Turkey ETF (TUR), USD",log level,218,2008-04-01,2026-05-01,0
+cpi_yoy,"CPI inflation, year-on-year (%)",level,264,2004-01-01,2025-12-01,0
+policy_rate,Overnight interbank rate (%),level,243,2006-01-01,2026-03-01,9
+cci,Consumer confidence index,level,256,2005-01-01,2026-04-01,0
